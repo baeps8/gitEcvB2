@@ -1,0 +1,16 @@
+  456  git merge elvina
+  457  git push -u origin HEAD
+  458  git status
+  459  git branch
+  460  git checkout main
+  461  git branch
+  462  git merge elvina
+  463  ls
+  464  git status
+  465  git branch
+  466  git merge elvina
+  467  git add test.txt
+  468  git commit -m "modify test.txt"
+  469  git push -u origin HEAD
+  470  git status
+  471  git branch
